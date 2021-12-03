@@ -1,5 +1,3 @@
-﻿//152120191062 Hüseyin Pardý
-//152120191072 Mücahid Mutluer
 #include <iostream>
 #include <fstream>
 #include<vector>
